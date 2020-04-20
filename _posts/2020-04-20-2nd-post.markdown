@@ -1,0 +1,6 @@
+---
+title: Post2
+date: 2020-04-20 06:56:00 Z
+---
+
+Contents of second post.
